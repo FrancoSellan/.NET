@@ -73,7 +73,6 @@ namespace ProyectoBase
             // 
             // consultaToolStripMenuItem
             // 
-            this.consultaToolStripMenuItem.Image = global::ProyectoBase.Properties.Resources.iconosUsuarios_png;
             this.consultaToolStripMenuItem.Name = "consultaToolStripMenuItem";
             this.consultaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.consultaToolStripMenuItem.Text = "Consulta";
